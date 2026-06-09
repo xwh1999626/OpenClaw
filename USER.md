@@ -28,6 +28,21 @@
 - 时区说"北京"，实际和 Asia/Shanghai 同 UTC+8
 - 老板是家硕老师，频道名是 JiashuoMedia
 
+## 字幕工作流规范（重要）
+
+### 风格
+- 短句断行（8-15 字为主），自然停顿处断
+- 中文标点（，。！？），紧贴字符不加空格
+- 数字与单位间不加空格（"7年" "20%"）
+- 保留英文品牌/技术词（ARRI, INFINIBAR, RGBAW, CRI 等）
+- 时间戳格式：`HH:MM:SS,mmm --> HH:MM:SS,mmm`（逗号毫秒）
+- 文件带 UTF-8 BOM
+
+### 质量要求
+- **专业名词必须去官网核实**——比如 Omnibar → arri.com、INFINIBAR → aputure.com
+- 转写后用配对 SRT 对比，验证术语准确性
+- 见 `subtitle-workflow.md` 和 `glossary.md`
+
 ---
 
 _还在持续了解中……_

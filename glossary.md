@@ -1,6 +1,6 @@
 # Glossary - 字幕术语表
 
-> 来源：基于 `D:\ARRI Omnibar.srt` 提取的专业/品牌术语
+> 来源：从 `D:\ARRI Omnibar.srt` + `D:\字幕训练\001-004.srt` 提取的专业/品牌术语
 > 用途：未来生成字幕时，用于**品牌官方拼写/规格核实**
 > 规则：**所有品牌产品名必须去官网核实**（牛叔工作流规范）
 >
@@ -16,113 +16,138 @@
 
 ## ARRI（arri.com）
 
-### 灯光产品线（LED 家族）
-
-| 术语 | 出现 | 状态 | 官网核实 |
-|------|------|------|---------|
-| ARRI | 24 | ✅ | 品牌名 |
-| **SkyPanel Classic** | ~5 | ✅ | S30-C / S120-C / S360-C 三款 |
-| **SkyPanel Pro** | ~5 | ✅ | S60-C 的下一代 |
-| **SkyPanel X / X21** | ~5 | ✅ | 模块化全天候，RGBACL，IP66 |
-| Orbiter | 1 | ✅ | ARRI 灯具产品 |
-| **Omnibar** | 37 | ⏳ | **官网未列**（可能新品/独立页面） |
-| L-Series | - | ✅ | LED Fresnel |
-| M-Series | - | ✅ | 日光灯具（Academy Sci-Tech Award） |
-| ARRILITE | - | ✅ | 钨丝灯系列 |
-
-### 控制/配件系统
-
-| 术语 | 出现 | 状态 | 备注 |
-|------|------|------|------|
-| **ARRI ALEXA Mode** | - | ✅ | SkyPanel X 的相机传感器匹配功能 |
-| **SkyLink** | - | ✅ | ARRI 无线控制 |
-| **Stellar** | - | ✅ | ARRI 灯光控制 APP |
-| **LiOS** | - | ✅ | ARRI 灯具固件系统 |
-| SkyPanel X 的超聚光透镜 | - | ⏳ | 配件名，待 SkyPanel X 配件页核实 |
-| Boost 模式 | - | ⏳ | Omnibar 的功能名（待核） |
-| Omniclip | - | ⏳ | Omnibar 配件 |
-| Omnigrip | - | ⏳ | Omnibar 配件 |
-| SkyPanel Control APP | - | ⏳ | 旧版 APP？（新的是 Stellar） |
-| Omnibar Control APP | - | ⏳ | Omnibar 专用 APP |
-| **Made in China（中国制造）** | - | ➖ | 通称 |
-| **RGBAW 阵列** | - | ⏳ | Omnibar 的 LED 类型（vs SkyPanel X 的 RGBACL） |
-| **Amber（琥珀色）** | 2 | ➖ | 颜色名 |
-| **Mint（薄荷色）** | 2 | ➖ | 颜色名 |
-| **RGBACL** | - | ✅ | SkyPanel X 用的色彩引擎 |
+| 术语 | 状态 | 备注 |
+|------|------|------|
+| ARRI | ✅ | 品牌 |
+| SkyPanel Classic（S30/S120/S360-C） | ✅ | |
+| SkyPanel Pro（S60 Pro） | ✅ | |
+| SkyPanel X（X21，RGBACL，IP66） | ✅ | |
+| Orbiter | ✅ | |
+| L-Series / M-Series / ARRILITE | ✅ | |
+| **ARRI ALEXA Mode** | ✅ | 相机传感器匹配 |
+| SkyLink / Stellar / LiOS | ✅ | 控制/固件 |
+| **Omnibar** | ⏳ | 官网未列，可能新品 |
 
 ---
 
 ## 爱图仕 Aputure（aputure.com）
 
-### 产品线
-
-| 术语 | 出现 | 状态 | 官网核实 |
-|------|------|------|---------|
-| 爱图仕 / Aputure | 2 | ✅ | 品牌中英文名 |
-| **INFINIBAR** | 12 | ✅ | "Programmable pixel bars for cinematography" |
-| INFINIBAR PB3 | - | ✅ | 1ft pixel bar，$299 |
-| INFINIBAR PB6 | - | ✅ | 2ft pixel bar，$479 |
-| INFINIBAR PB12 | - | ✅ | 4ft pixel bar，$639 |
-| BLAIR-CG | 1 | ✅ | Aputure 光源技术（NOVA II 用） |
-| INFINIMAT | - | ✅ | 充气垫灯系列 |
-| STORM / NOVA / Mini / Light Storm / Sidus | - | ✅ | 产品系列名 |
+| 术语 | 出现 | 状态 | 备注 |
+|------|------|------|------|
+| 爱图仕 / Aputure | - | ✅ | 品牌中英文 |
+| **NOVA**（1代） | 80 | ✅ | 早期 NOVA |
+| **NOVA II** | 42 | ✅ | NOVA 第二代 |
+| **BLAIR-CG** | 3 | ✅ | Aputure 光源技术 |
+| **BLAIR** | 28 | ✅ | BLAIR-CG 的简称？ |
+| **INFINIBAR** | - | ✅ | PB3/PB6/PB12 |
+| INFINIMAT | - | ✅ | 充气垫灯 |
+| STORM / Mini / Light Storm / Sidus | - | ✅ | 产品系列 |
 
 ---
 
-## Astera（astera-led.com）
+## Sony 索尼（sony.com）
 
-### 产品线
+| 术语 | 出现 | 状态 | 备注 |
+|------|------|------|------|
+| 索尼 / Sony | - | ✅ | |
+| **α7 V**（Alpha 7 V） | - | ⏳ | 待官网核实 |
+| **α7 IV**（Alpha 7 IV） | - | ⏳ | 待官网核实 |
+| **FX6** | 11 | ⏳ | Cinema Line 摄影机 |
+| Cinema Line / Alpha | - | ➖ | 产品线通称 |
 
-| 术语 | 出现 | 状态 | 官网核实 |
-|------|------|------|---------|
-| **TITAN / Titan Tube** | 8 | ✅ | Astera 经典管灯 |
+> 字幕写法参考："α7 V" / "α7 IV"（带空格 + 罗马数字）
+> 罗马数字：II/III/IV/V/VI/VII 等
 
-> 注：SRT 中只写了 "TITAN"，官网全称 "Titan Tube"。在字幕中保持 "TITAN" 还是写全称，待定。
+---
+
+## Canon 佳能（canon.com / canon.com/cinema-eos）
+
+| 术语 | 出现 | 状态 | 备注 |
+|------|------|------|------|
+| 佳能 / Canon | - | ✅ | |
+| **Cinema EOS** | - | ✅ | 佳能电影摄影机产品线 |
+| **EOS C400**（简称 C400）| 114 | ⏳ | 2024 新发布的 Cinema EOS |
+| **EOS R5C**（简称 R5C）| - | ⏳ | Cinema EOS 混合机 |
+| **EOS C70** | 10 | ⏳ | Cinema EOS |
+| EOS C50 | 12 | ⏳ | Cinema EOS（最新款？） |
+| EOS C300 | 10 | ⏳ | Cinema EOS 经典款 |
+| **DGO** | 10 | ➖ | Dual Gain Output 传感器技术 |
+
+---
+
+## Nikon 尼康（nikon.com）
+
+| 术语 | 出现 | 状态 | 备注 |
+|------|------|------|------|
+| 尼康 / Nikon | - | ✅ | |
+| **ZR** | 10 | ⏳ | 新款电影摄影机？ |
+
+---
+
+## TCL
+
+| 术语 | 出现 | 状态 | 备注 |
+|------|------|------|------|
+| TCL | 35 | ✅ | 电视品牌 |
+| **32X3A** | - | ⏳ | TCL OLED 显示器型号 |
+| OLED | 12 | ➖ | 通用显示技术 |
 
 ---
 
 ## 通用技术术语（无需品牌核实）
 
-| 术语 | 类别 | 备注 |
-|------|------|------|
-| **CRI** | 显色指数 | CIE 标准 |
-| **SSI** | 光谱相似度指数 | 标准 |
-| **TM-30** | IES 色彩评估方法 | IES 标准 |
-| **⊿uv (Delta uv)** | 色温偏离 | CIE 标准 |
-| **COB LED** | 大功率 LED | 通用 |
-| **Bayer / RGGB** | 感光元件 | 通用 |
-| **18650** | 电池型号 | 通用 |
-| **G/M 偏移** | 色彩调整 | 通用 |
-| **Type-C / DC** | 接口 | 通用 |
-| **黑体曲线** | 色彩学 | 通用 |
-| **RGBAW** | LED 阵列类型 | 通用术语 |
-| **RGBWW** | LED 阵列类型 | 通用术语 |
-| **CCT / XY** | 色彩模式 | 通用 |
-| **Boost** | 功能 | 通用术语 |
+### 摄影/摄影机
+
+| 术语 | 类别 |
+|------|------|
+| **ISO / Base ISO** | 感光度 |
+| **RAW** | 原始格式 |
+| **SNR** | 信噪比 |
+| **HDR / SDR** | 高动态范围/标准动态范围 |
+| **DeltaE / ΔE** | 色彩准确度 |
+| **EV** | 曝光值 |
+| **ND** | 中灰滤镜 |
+| **UV** | 紫外滤镜 |
+| **S35** | Super 35 传感器 |
+| **AVC** | 视频编码（H.264） |
+| **XF** | Canon XF 编解码格式 |
+| **RF** | Canon RF 卡口 |
+| **Type-C** | 接口（Type-C 双接口） |
+
+### 灯光/影像
+
+| 术语 | 类别 |
+|------|------|
+| **CRI / SSI / TM-30** | 显色/色彩评估 |
+| **RGBAW / RGBACL / RGBWW** | LED 阵列 |
+| **COB LED** | 大功率 LED |
+| **Bayer / RGGB** | 感光元件 |
+| **RGBAW** | Omnibar 的 LED 类型 |
+| **CCT / XY** | 色彩模式 |
+| **Boost** | 功能 |
 
 ---
 
 ## 🆘 待办 / 未完成核实
 
-- [ ] **ARRI Omnibar** - 官网找不到独立产品页（可能太新）
-  - 建议：用户提供 ARRI 官网链接或截图
-- [ ] **Omnibar 配件**（Omniclip, Omnigrip）- 等 Omnibar 页面找到后核实
-- [ ] **Boost 模式**（Omnibar 专用）- 同上
-- [ ] **RGBAW 阵列**（Omnibar 专用）- 通用术语已确认，但 ARRI 命名需核
+- [ ] **ARRI Omnibar** - 官网未列
+- [ ] **Sony α7 V / α7 IV / FX6** - 待 sony.com 核实最新拼写
+- [ ] **Canon Cinema EOS** 全部产品 - canon.com 逐个查
+  - C400, C70, C50, C300, R5C
+- [ ] **Nikon ZR** - 新品，待 nikon.com 核实
+- [ ] **TCL 32X3A** - 待 tcl.com 核实
+- [ ] **Aputure NOVA II / BLAIR** - 已通过 aputure.com 确认是 Aputure 品牌
+- [ ] **Omnibar 配件**（Omniclip, Omnigrip）
 
-## 核实流程（持续）
+## 风格约束（来自 5 个 SRT 样本）
 
-1. 从 SRT 提取术语（✅已完成）
-2. 对每个品牌产品名 → **去对应官网查拼写/规格**
-3. 核实结果写回本表
-4. 转写新音频后，用本表校对术语
-
-## 风格约束（来自牛叔 SRT）
-
-- 字幕中品牌/产品名**直接用英文**（Omnibar、INFINIBAR、TITAN）
-- 技术词保留英文（CRI、SSI、TM-30、RGBAW）
-- 通用技术词可中英混用（Boost 模式、AMBER 琥珀色）
+- 品牌/产品名**直接用英文**（α7 V, FX6, C400, NOVA II）
+- 罗马数字：II/III/IV/V 等用罗马数字
+- 中文品牌首次出现时："佳能 C400"、"索尼 FX6"（中+英混合）
+- 技术词保留英文（CRI、SSI、TM-30、Base ISO、ΔE、SNR）
+- 字幕中数字带单位紧贴（"32X3A"、"Base ISO 800"）
+- 罗马数字与英文之间加空格："α7 V" / "α7 IV" / "NOVA II"
 
 ---
 
-_本表由「家硕老师的三星奴隶」自动维护，最后更新 2026-06-10 上午。_
+_本表由「家硕老师的三星奴隶」自动维护，最后更新 2026-06-10 下午。_
